@@ -35,7 +35,8 @@ namespace StudentDB
                             cmd.Parameters.AddWithValue("@StudentSurname", StudentSurname[i]);
                             cmd.Parameters.AddWithValue("@StudentAge", StudentAge[i]);
                             cmd.Parameters.AddWithValue("@AvgPoint", AvgPoint[i]);
-                            Console.WriteLine(StudentName[i]+" elave olundu!");
+                            int rowsAffected = cmd.ExecuteNonQuery();
+                            Console.WriteLine($"{rowsAffected} row(s) added: {StudentName[i]}");
                         }
                     }
                     catch (Exception ex)

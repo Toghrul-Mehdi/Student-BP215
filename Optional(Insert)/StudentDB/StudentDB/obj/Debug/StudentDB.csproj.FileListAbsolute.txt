@@ -1,0 +1,7 @@
+C:\Users\Victus\source\repos\StudentDB\StudentDB\bin\Debug\StudentDB.exe.config
+C:\Users\Victus\source\repos\StudentDB\StudentDB\bin\Debug\StudentDB.exe
+C:\Users\Victus\source\repos\StudentDB\StudentDB\bin\Debug\StudentDB.pdb
+C:\Users\Victus\source\repos\StudentDB\StudentDB\obj\Debug\StudentDB.csproj.AssemblyReference.cache
+C:\Users\Victus\source\repos\StudentDB\StudentDB\obj\Debug\StudentDB.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\StudentDB\StudentDB\obj\Debug\StudentDB.exe
+C:\Users\Victus\source\repos\StudentDB\StudentDB\obj\Debug\StudentDB.pdb
